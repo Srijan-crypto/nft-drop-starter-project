@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"Srijan","pid":122720,"time":"2022-12-07T12:05:21.3455945Z","target":"sugar","line":117,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Failed to read keypair file: ~/.config/solana/devnet.json, The system cannot find the path specified. (os error 3)","level":50,"hostname":"Srijan","pid":122720,"time":"2022-12-07T12:05:21.3465083Z","target":"sugar_cli::setup","line":53,"file":"src\\setup.rs"}

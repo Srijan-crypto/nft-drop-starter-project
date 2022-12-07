@@ -1,0 +1,20 @@
+{
+    "name": "Jasprit_Bumrah",
+    "symbol": "BCCI",
+    "description": "Collection of 3 cricket players on the blockchain. This is the player 2/3.",
+    "image": "1.png",
+    "attributes": [
+      {
+        "trait_type": "Bowler",
+        "value": "2"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "GCKpz1T3gWc3jEW27cmCM9KzXn3EJB7ZALkyaPsNddHw",
+    "candyMachineCreator": "CedWQckD4fbk5tnmEq5R9g42NbXckH3NXjck9UggVghK",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Virat_Kohli",
+      "image_hash": "8fde29a03499db13e5b2b92981f330f9df49c919adfebbc30e7553f1d0f49fd4",
+      "image_link": "https://nftstorage.link/ipfs/bafybeib7tkugrctwnoo2fr5tz6mjhfklj3gjagraqb3rxu3fh7tcoyb7z4/0.png",
+      "metadata_hash": "6dfc27853d1cc27519608b3f7228419da80c62c769c6975e006fd4c254bffb5d",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihznxp4wy5iv72pix6vwqkcgknlbnsypbpaovn3vkpo4olr6pjy24/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Jasprit_Bumrah",
+      "image_hash": "541b43b2fa77abaf41837fe5388442a7c6b47550f08a8562a2393c4ee9b26361",
+      "image_link": "https://nftstorage.link/ipfs/bafybeib7tkugrctwnoo2fr5tz6mjhfklj3gjagraqb3rxu3fh7tcoyb7z4/1.png",
+      "metadata_hash": "1c6099a5e86d729d6ef63ede5a67f031911d19a75dab39cadad16595da3299f5",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihznxp4wy5iv72pix6vwqkcgknlbnsypbpaovn3vkpo4olr6pjy24/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "M_S_Dhoni",
+      "image_hash": "cb11089af62e39ae25995cd5520c8246c7536eb1c5ee3c02c482b1b7cfb50968",
+      "image_link": "https://nftstorage.link/ipfs/bafybeib7tkugrctwnoo2fr5tz6mjhfklj3gjagraqb3rxu3fh7tcoyb7z4/2.png",
+      "metadata_hash": "12afe1ed9e7557d6d7a869e4746ac481f57449219d66340cabd4a388d6b99b96",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihznxp4wy5iv72pix6vwqkcgknlbnsypbpaovn3vkpo4olr6pjy24/2.json",
+      "onChain": true
+    }
+  }
+}

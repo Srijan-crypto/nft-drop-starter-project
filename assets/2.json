@@ -1,0 +1,20 @@
+{
+    "name": "M_S_Dhoni",
+    "symbol": "BCCI",
+    "description": "Collection of 3 cricket players on the blockchain. This is the player 3/3.",
+    "image": "2.png",
+    "attributes": [
+      {
+        "trait_type": "Captain",
+        "value": "3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

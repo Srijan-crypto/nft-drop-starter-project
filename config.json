@@ -1,0 +1,27 @@
+{
+    "price": 0.01,
+    "number": 3,
+    "gatekeeper": null,
+    "creators": [
+      {
+        "address": "4ebNT1Fp6rA6VbBGNti4dRVegnk9pX6PiLLBrXLTf7iP",
+        "share": 100
+      }
+    ],
+    "solTreasuryAccount": "4ebNT1Fp6rA6VbBGNti4dRVegnk9pX6PiLLBrXLTf7iP",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "2022-12-06T18:00:00+00:00",  
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "freezeTime": null,
+    "uploadMethod": "nft_storage",
+    "retainAuthority": true,
+    "isMutable": true,
+    "symbol": "BCCI",
+    "sellerFeeBasisPoints": 1,
+    "awsConfig": null,
+    "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDQwM0FENDcxZjRCYzZDMTg1M0FiYUQ5OTNCZDJkY0NiOWRmODY3Y0MiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY3MDQxMTQyMjU3NSwibmFtZSI6Im1ldGFwbGV4In0.8vsC-REUPr-0Kbqu9_WzMgZYdhrD82KsRueXbSRCpjc",
+    "shdwStorageAccount": null
+  }
